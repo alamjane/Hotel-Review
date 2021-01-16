@@ -19,9 +19,9 @@ Potential customers, could have their hotel choice be influenced by a tweet. Opi
 
 By using sentiment analysis, on existing hotel reviews from Tripadvisor.com, I created a model that can quantify on a scale of 1-5, how the author of a tweet on twitter, or a post on a reddit thread, feels about our hotel, and as a result, also how the readers think about us. If a review classifies to be less than a score of 3, this post/tweet could be looked into, find out why they had a negative opinion of our hotel, and in return fix the problem. 
 
-Email: candyahs@gmail.com <br>
-LinkedIn: www.linkedin.com/in/ahilan-srivishnumohan/ <br>
-Medium: www.medium.com/@candyahs <br>
+Email: alam.jane61@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/jane-alam-90824396/ <br>
+Medium: https://alam-jane61.medium.com/ <br>
 
 ## Table of Contents
 <details open>
